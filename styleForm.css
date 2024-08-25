@@ -1,0 +1,42 @@
+/* form{
+    width: 300px;
+    font-size: larger;
+}
+body{
+    background-color: gold;
+}
+input{
+    background-color: bisque;
+
+}
+textarea{
+    resize: none;
+    max-height: 300px;
+}
+input, textarea{
+    outline:none;
+    border: 1px solid #ddd
+    
+}
+::placeholder{
+    color:red;
+    opacity:1;
+} */
+
+body{
+    background-color:gold;
+}
+.image{
+    width: 300px;
+
+}
+.schoolImage{
+    width: 300px;
+}
+.bauschWork{
+    width: 300px;
+
+}
+.photos{
+    width:300px;
+}
